@@ -9,8 +9,6 @@ import ship
 import game_functions as gf
 import alien
 
-import math
-a = 'bebra'
 
 def run_game():
 
